@@ -1,0 +1,765 @@
+.button-theme {
+    background:yellowgreen;
+}
+
+.button-theme:hover {
+    background: #dc141d;
+}
+
+.btn-border {
+    color: yellowgreen;
+    border: solid 1px yellowgreen;
+}
+
+.pages-404 .btn {
+    background: yellowgreen;
+}
+
+.pages-404 .btn:hover {
+    background: #dc141d;
+}
+
+.btn-border:hover{
+    background: #dc141d;
+    border: solid 1px #dc141d;
+}
+
+.blog-2 .b-btn{
+    color: yellowgreen;
+}
+
+
+.vehicles-box .detail h5{
+    color: yellowgreen;
+}
+
+.about-car .best-used-car h3 span{
+    color: darkorange;
+}
+
+.service-center .about-text h3 span{
+    color: darkorange;
+}
+
+.service-center ul li i{
+    color: yellowgreen;
+}
+
+.service-box ul li i {
+    color: yellowgreen;
+}
+
+.shop-info p a{
+    color: yellowgreen;
+}
+
+.car-box .facilities-list li span i{
+    color: yellowgreen;
+}
+
+.blog-3 .post-meta ul li i {
+    color: #f01520;
+}
+
+.blog-3 .date-box {
+    background: yellowgreen;
+}
+
+.blog-3 .date-box::after {
+    border-right: 10px solid yellowgreen;
+}
+
+.service-info-2 .icon {
+    color: yellowgreen;
+}
+
+.about-slider-box:before {
+    border: 2px solid yellowgreen;
+}
+
+.question .contact-info li i{
+    color: yellowgreen;
+}
+
+.price-box-2{
+    color: yellowgreen;
+}
+
+.car-box-5 .facilities-list li i{
+    color: yellowgreen;
+}
+
+.category-content .new{
+    background: yellowgreen;
+}
+
+.category-subtitle{
+    color: yellowgreen;
+}
+
+.car-box .footer ul li a:hover{
+    color: yellowgreen;
+}
+
+.car-model-2 .ratings-2 span{
+    background: yellowgreen;
+}
+
+.car-box-3 .footer ul li a:hover{
+    color: yellowgreen;
+}
+
+.overlap-btn:hover{
+    background: yellowgreen;
+    border: solid 1px yellowgreen;
+}
+
+.overlap-btn.active {
+    border: 1px solid yellowgreen!important;
+    background: yellowgreen !important;
+    color: #fff;
+}
+
+.car-box-2 .facilities-list li i{
+    color: yellowgreen;
+}
+
+.change-view-btn:hover {
+    background: yellowgreen;
+    border: solid 1px yellowgreen;
+    color: #fff;
+}
+
+.car-model-2 .price-box .del-2 {
+    color: yellowgreen;
+}
+
+.change-view-btn {
+    border-radius: 2px;
+    border: solid 1px yellowgreen;
+    color: yellowgreen;
+}
+
+.active-view-btn{
+    background: yellowgreen;
+    border: solid 1px yellowgreen;
+    color: #fff;
+}
+
+.sb-5 .search-area-inner{
+    background:yellowgreen;
+}
+
+.blog-3 .post-meta ul li i{
+    color: #f01520;
+}
+
+.carousel-indicators .active {
+    background-color: yellowgreen;
+}
+
+.navbar-light .navbar-toggler{
+    background: yellowgreen;
+}
+
+.banner h4 {
+    color: yellowgreen;
+}
+
+.shop-info .price del {
+    color: yellowgreen;
+}
+
+.counter-box h1{
+    color: yellowgreen;
+}
+
+.details-banner .cover-buttons ul li a:hover {
+    background: yellowgreen;
+}
+
+.text .ratings-box {
+    background: yellowgreen;
+}
+
+.dashboard-nav ul {
+    border-bottom: 1px solid #dc141d;
+}
+
+.new-user-box .follow:hover{
+    background:yellowgreen;
+    color: #fff;
+}
+
+.setting-button i{
+    color:yellowgreen;
+}
+
+#page_scroller {
+    background:yellowgreen;
+}
+
+.dashboard-nav{
+    background:yellowgreen;
+}
+
+/** Tab box 2 start **/
+.tab-box-2 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background: transparent;
+    border-bottom: solid 2pxyellowgreen;
+    border-radius: 0;
+    color:yellowgreen;
+}
+
+.tab-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background:yellowgreen;
+}
+
+.pricing-1 .plan-list ul li i{
+    color: yellowgreen;
+}
+
+.checkbox-theme input[type="checkbox"]:checked + label::before {
+    border: 2px solid yellowgreen;
+}
+
+.average-rating{
+    background: yellowgreen;
+}
+
+.rating-width{
+    background: yellowgreen;
+}
+
+.heading-car h3 span{
+    color: yellowgreen;
+}
+
+.btn-secton .carousel-indicators .active {
+    background-color: yellowgreen;
+}
+
+.rating-count span{
+    color: yellowgreen;
+}
+
+.filteriz-navigation .active{
+    color: yellowgreen;
+}
+
+.main-header .dropdown-menu a:hover {
+    color:yellowgreen;
+}
+
+input[type=checkbox]:checked + label:before {
+    color:yellowgreen;
+}
+
+.testimonial-3 .carousel-indicators li.active {
+    background: yellowgreen;
+}
+
+.banner-bg-color{
+    background:yellowgreen;
+}
+
+.btn-theme{
+    background:yellowgreen;
+    border: solid 1pxyellowgreen;
+}
+
+.featured-car-4 .carousel-indicators li.active {
+    background: yellowgreen;
+}
+
+.btn-theme:hover{
+    background: #dc141d;
+    border: solid 1px #dc141d;
+}
+
+.btn-white-lg-outline:hover {
+    color: #FFF;
+    background:yellowgreen;
+    border: solid 2pxyellowgreen;
+}
+
+.car-amenities ul li i {
+    color:yellowgreen;
+}
+
+.border-button-theme {
+    color:yellowgreen;
+    border: 2px solidyellowgreen;
+}
+
+.banner h2 span{
+    color:yellowgreen;
+}
+
+.car-model-2 .modal-right-content h3{
+    color:yellowgreen;
+}
+
+.testimonial-2 .testimonial-info-box p i{
+    color:yellowgreen;
+}
+
+.main-title-2 h1 span{
+    color:yellowgreen;
+}
+
+.banner .banner-slider-inner h2 span{
+    color:yellowgreen;
+}
+
+.main-title h1 span{
+    color:darkorange;
+}
+
+
+
+.banner-detail-box .white-box .slide-price {
+    color:yellowgreen;
+}
+
+.banner-detail-box .white-box .slide-location::after {
+    background-color:yellowgreen;
+}
+
+.search-options-btn, .search-options-btn:hover {
+    background:yellowgreen;
+}
+
+.search-button {
+    background:yellowgreen;
+}
+
+.intro-section {
+    background:yellowgreen;
+}
+
+.search-button:hover {
+    color: #fff;
+    background: #dc141d;
+}
+
+.pricing-1 .plan-header .plan-price {
+    color: yellowgreen;
+}
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
+    color:yellowgreen;
+}
+
+.bootstrap-select .dropdown-menu > .active > a,
+.bootstrap-select .dropdown-menu > .active > a:focus,
+.bootstrap-select .dropdown-menu > .active > a:hover {
+    color:yellowgreen;
+}
+
+.bootstrap-select .dropdown-menu li a:hover .text {
+    color:yellowgreen;
+}
+
+.tag {
+    background:yellowgreen;
+}
+
+.view-all ul li a:hover{
+    background: yellowgreen;
+    color: #fff;
+}
+
+.recent-properties-box .detail header::after {
+    background-color:yellowgreen;
+}
+
+
+
+footer .footer-item .contact-info li label a:hover {
+    color:yellowgreen;
+}
+
+.service-info i{
+    color:yellowgreen;
+}
+
+.counter-box-2 .icon{
+    background: yellowgreen;
+}
+
+.service-box .heading .title h4 a:hover {
+    color:yellowgreen;
+}
+
+.main-header .form-inline .submit {
+    border: solid 1pxyellowgreen;
+    color:yellowgreen;
+}
+
+.main-header .form-inline .submit:hover {
+    border: solid 1pxyellowgreen;
+    background:yellowgreen;
+    color: #fff;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color:yellowgreen;
+}
+
+.sh-3 .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: #515151;
+}
+
+.banner .banner-slider-inner h1 span{
+    color:yellowgreen;
+}
+
+/*.main-header .navbar-expand-lg .navbar-nav .active .nav-link {
+    color:yellowgreen !important;
+}*/
+
+.main-header .navbar-expand-lg .user-account li a:hover {
+    color:yellowgreen;
+}
+
+.plan .price-header h1 {
+    color:yellowgreen;
+}
+
+.btn-outline {
+    border: solid 1pxyellowgreen;
+    color:yellowgreen;
+}
+
+.car-box .footer .price{
+    color:yellowgreen;
+}
+
+.btn-outline:hover {
+    border: solid 1px #dc141d;
+    background: #dc141d;
+    color: #fff;
+}
+
+.btn-outline-2 {
+    border: solid 2pxyellowgreen;
+    color:yellowgreen;
+    font-weight: 600;
+}
+
+.heading-car-2 h3 span {
+    color:yellowgreen;
+}
+
+.btn-outline-2:hover {
+    border: solid 2px #dc141d;
+    background: #dc141d;
+    color: #fff;
+}
+
+.footer .form-inline .btn{
+    background:yellowgreen;
+    color: #fff;
+}
+
+.about-box .detail h3 {
+    color:yellowgreen;
+}
+
+.sb-2{
+    background: yellowgreen;
+}
+
+.best-used-car ul li i {
+    color: yellowgreen;
+}
+
+.posts-by-category ul li span:hover{
+    color: yellowgreen;
+}
+
+li.active.filtr-button.filtr a{
+    color:yellowgreen;
+}
+
+.coming-soon-inner h1 span{
+    color:yellowgreen;
+}
+
+.filteriz-navigation li a:hover{
+    color:yellowgreen;
+}
+
+.sub-banner .page-info .breadcrumb-area ul li a:hover {
+    color:yellowgreen;
+}
+
+
+.show-more-options i{
+    color:yellowgreen;
+}
+
+.pagination > li > .active {
+    background:yellowgreen;
+}
+
+.pagination > li > a:hover {
+    background:yellowgreen;
+    color: #fff;
+}
+
+.contact-section .btn-section .active-bg {
+    color:yellowgreen;
+}
+
+.read-more {
+    color:yellowgreen;
+}
+
+.blog-3 .detail .post-meta span a i {
+    color:yellowgreen;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    background:yellowgreen;
+}
+
+.our-agent-sidebar .carousel-indicators .active {
+    background:yellowgreen;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    border: 2px solidyellowgreen;
+}
+
+.range-slider .ui-widget-header {
+    background-color:yellowgreen;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .link-color {
+    color:yellowgreen;
+    border: solid 1pxyellowgreen;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .link-color:hover{
+    color: #fff;
+    border: solid 1pxyellowgreen;
+    background:yellowgreen;
+}
+
+.posts-by-category ul li a:hover {
+    color:yellowgreen;
+}
+
+.tags-box ul li a:hover {
+    color:#fff;
+    border: 1px solid yellowgreen;
+    background: yellowgreen;
+}
+
+.latest-tweet a {
+    color:yellowgreen;
+}
+
+.blog-1 h3 a:hover{
+    color:yellowgreen;
+}
+
+.blog-tags a:hover {
+    color:#fff;
+    border: 1px solid yellowgreen;
+    background: yellowgreen;
+}
+
+.car-box-5 .detail .title a {
+    color:yellowgreen;
+}
+
+.price-box-3 {
+    color: yellowgreen;
+}
+
+.vs{
+    color: yellowgreen;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    color:yellowgreen;
+}
+
+.breadcrumbs li a:hover {
+    color:yellowgreen;
+}
+
+.helping-center ul li i {
+    color:yellowgreen;
+}
+
+.my-account-box .title::after {
+    background-color:yellowgreen;
+}
+
+.breadcrumb-nav ul .active {
+    color:yellowgreen;
+}
+
+.photoUpload {
+    background:yellowgreen;
+}
+
+.typography-page mark.color {
+    background-color:yellowgreen;
+}
+
+.faq-accordion .card-header .collapsed.card-title:before {
+    color:yellowgreen;
+}
+
+.dashboard-nav ul li span.nav-tag {
+    color:yellowgreen;
+}
+
+.comment-content h6 span a{
+    color:yellowgreen;
+}
+
+.comment-content h6 span a:hover{
+    color: #dc141d;
+}
+
+.bg-active {
+    background: yellowgreen;
+    color: #fff!important;
+}
+
+.banner h3 span{
+    color: yellowgreen;
+}
+
+.typography .list-3 li:before, .list-2 li:before, .list-1 li:before {
+    color:yellowgreen;
+}
+
+.numbered.color.filled ol > li::before {
+    border: 1px solidyellowgreen;
+    background-color:yellowgreen;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solidyellowgreen;
+    color:yellowgreen;
+}
+
+.widget-link:hover {
+    color:yellowgreen;
+}
+
+.coming-soon-inner .btn, .coming-soon-inner .btn:hover, .coming-soon-inner .btn:active {
+    background:yellowgreen;
+}
+
+.car-box-2 .detail .title a {
+    color:yellowgreen;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color:yellowgreen;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+    background-color:yellowgreen;
+}
+
+.map-marker:hover {
+    background-color:yellowgreen;
+    cursor: pointer;
+}
+
+.map-marker:hover:before {
+    border-color:yellowgreen transparent transparent transparent;
+}
+
+.map-marker.featured:hover {
+    background-color:yellowgreen;
+}
+
+.map-marker.featured:hover:before {
+    border-color:yellowgreen transparent transparent transparent;
+}
+
+.map-marker .icon {
+    border: 3px solidyellowgreen;
+}
+
+.marker-active .map-marker {
+    background-color:yellowgreen;
+}
+
+.marker-active .map-marker:before {
+    border-color:yellowgreen transparent transparent transparent;
+}
+
+.slick-arrow-buton:hover{
+    background:yellowgreen;
+    color: #fff;
+}
+
+.map-properties .map-content h4 a {
+    color:yellowgreen;
+}
+
+.dropzone-design:hover {
+    border: 2px dashedyellowgreen;
+}
+
+
+@media (max-width: 992px) {
+    .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color:yellowgreen!important;
+    }
+
+    .car-model-2 .modal-header {
+        background: yellowgreen;
+        padding: 20px 20px 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color:yellowgreen;
+    }
+
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        background-color:yellowgreen !important;
+    }
+
+    .main-header .navbar-default .nav > li > a:hover {
+        background:yellowgreen;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        background-color:yellowgreen !important;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        background: #eee;
+    }
+}
+
+@media (min-width: 992px) {
+    /*.header-transparent .navbar-expand-lg .navbar-nav .active .nav-link,
+    .header-transparent .navbar-expand-lg .navbar-nav .nav-link:hover
+    {
+        color: #fff !important;
+    }
+
+    .header-transparent .navbar-expand-lg .navbar-nav .nav-link {
+        color: #fff;
+    }
+
+    .header-transparent .link-color {
+        color: #fff;
+    }*/
+}
